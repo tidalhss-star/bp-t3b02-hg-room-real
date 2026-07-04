@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
-Sitemap: https://tidalhss-star.github.io/bp-t3b02-hg-room-real//sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://hwagok-room-choice.hardcoreroom.com/sitemap.xml
