@@ -1,212 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hwagok-room-choice.hardcoreroom.com/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hwagok-room-choice.hardcoreroom.com/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/</loc>
-    <lastmod>2026-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://hwagok-room-choice.hardcoreroom.com/about.html</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hwagok-room-choice.hardcoreroom.com/blog.html</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0271.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0272.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0273.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0274.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0275.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0276.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0277.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0278.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0279.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0280.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0281.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0282.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0283.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0285.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0286.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0287.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260707-0288.html</loc>
-    <lastmod>2026-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0476.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0477.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0478.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0479.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0254.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0255.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0256.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0257.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0258.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0259.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0260.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0261.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0262.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0263.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hwagok-room-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0264.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
